@@ -13,7 +13,7 @@ application would assist in testing that.
 
 * [Install Go](http://golang.org/doc/install)
 
-* `go get github.com/colemickens/SafeKilla`
+* `go get github.com/colemickens/safekilla`
 
 * The resulting binary is in the `bin` directory in one of your GOPATHs. (If you have $GOPATH/bin on your $PATH, you can simply run `safekilla` anywhere. Otherwise, you'll need to run `$GOPATH/bin/safekilla` or something else if you have multiple $GOPATH directories.)
 
